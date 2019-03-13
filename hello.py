@@ -12,4 +12,5 @@ dae bak success yaho
 그래도 협업cvs를 사용해보게되어 좋다.
 error ?
 
+시킨대로 코드 한줄 추가
 again advise
