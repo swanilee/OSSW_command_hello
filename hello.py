@@ -13,3 +13,5 @@ dae bak success yaho
 error ?
 
 again advise
+
+브랜치 독립성 확인
